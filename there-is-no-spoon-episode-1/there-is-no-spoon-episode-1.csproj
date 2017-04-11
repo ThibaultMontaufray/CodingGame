@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>there_is_no_spoon_episode_1</RootNamespace>
-    <AssemblyName>there_is_no_spoon_episode_1</AssemblyName>
+    <AssemblyName>there-is-no-spoon-episode-1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
